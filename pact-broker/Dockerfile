@@ -1,0 +1,5 @@
+FROM dius/pact-broker
+
+ENV PACT_BROKER_DATABASE_ADAPTER=sqlite
+ENV PACT_BROKER_DATABASE_NAME=pactbroker.sqlite
+
