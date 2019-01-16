@@ -15,7 +15,7 @@
 
 region="us-south"
 namespaceRegion="ng"
-clusterName="mycluster"
+clusterName="ct-seats-dev-02"
 registryNamespace="pact-broker"
 
 if [[ -z "$1" ]]; then
